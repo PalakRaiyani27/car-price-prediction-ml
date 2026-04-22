@@ -1,5 +1,6 @@
 # car-price-prediction-ml
 A Machine Learning web application built with Streamlit that predicts the resale price of used cars based on insurance, fuel type, kilometers driven, ownership, and transmission.
+<img width="1899" height="944" alt="image" src="https://github.com/user-attachments/assets/5b8eaa4e-1d50-46fc-937c-c20462a9c1cf" />
 
 # 🚗 Used Car Price Predictor
 
