@@ -20,13 +20,6 @@ A Machine Learning web application that predicts the resale price of used cars u
 - Scikit-learn
 - Pickle
 
-## 📂 Project Files
-- app.py
-- final_model.pkl
-- requirements.txt
-- dataset.csv
-
 ## ▶️ Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+```powershell
+python -m streamlit run app.py
